@@ -1,4 +1,4 @@
-# 🧩 JSON Toolbox
+# 🧩 JSON Tools
 
 **JSON Toolbox** is a powerful and user-friendly developer utility designed to simplify your work with JSON and plain text. Whether you're debugging API responses, formatting unstructured data, or comparing configuration files, JSON Toolbox provides the tools you need.
 
